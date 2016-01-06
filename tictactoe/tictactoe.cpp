@@ -8,7 +8,7 @@ tictactoe::tictactoe(QWidget *parent)
 }
 
 void tictactoe::changeCaption(){
-	ui.label->setText("test");
+	ui.label->setText("test test test");
 	ui.checkBox->click();
 }
 

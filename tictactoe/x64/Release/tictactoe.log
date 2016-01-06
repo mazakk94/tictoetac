@@ -1,4 +1,4 @@
-﻿Build started 2016-01-04 21:08:44.
+﻿Build started 2016-01-06 20:04:17.
      1>Project "C:\Users\Mazi\Documents\Visual Studio 2013\Projects\tictactoe\tictactoe\tictactoe.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
          C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I.\GeneratedFiles /I. /IC:\Qt\Qt5.5.1\5.5\msvc2013_64\include /I.\GeneratedFiles\Release /IC:\Qt\Qt5.5.1\5.5\msvc2013_64\include\QtCore /IC:\Qt\Qt5.5.1\5.5\msvc2013_64\include\QtGui /IC:\Qt\Qt5.5.1\5.5\msvc2013_64\include\QtWidgets /nologo /W1 /WX- /O2 /D UNICODE /D WIN32 /D WIN64 /D QT_DLL /D QT_NO_DEBUG /D NDEBUG /D QT_CORE_LIB /D QT_GUI_LIB /D QT_WIDGETS_LIB /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt tictactoe.cpp
@@ -13,4 +13,4 @@
 
 Build succeeded.
 
-Time Elapsed 00:00:01.85
+Time Elapsed 00:00:01.73

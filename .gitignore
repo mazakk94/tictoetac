@@ -1,4 +1,4 @@
 tictactoe.sdf
 tictactoe.v12.suo
 tictactoe/tictactoe.vcxproj.user
-x64/Release/tictactoe.exe
+x64/Release/*
